@@ -1,0 +1,23 @@
+{
+  "name": "dominosorderautomatization",
+  "version": "1.0.0",
+  "description": "A project to simplify the order process of a pizza",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReySi/DominosOrderAutomatization.git"
+  },
+  "author": "Florian Rusch, Simon Rey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReySi/DominosOrderAutomatization/issues"
+  },
+  "homepage": "https://github.com/ReySi/DominosOrderAutomatization#readme",
+  "dependencies": {
+    "dominos": "^2.1.1",
+    "express": "^4.16.3"
+  }
+}
